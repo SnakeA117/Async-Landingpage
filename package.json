@@ -4,7 +4,7 @@
   "description": "This project was created based on Asynchronism Course with Javascript.",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d src"
+    "deploy": "gh-pages"
   },
   "repository": {
     "type": "git",
