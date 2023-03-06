@@ -1,0 +1,20 @@
+{
+  "name": "async-landingpage",
+  "version": "1.0.0",
+  "description": "This project was created based on Asynchronism Course with Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnakeA117/Async-Landingpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnakeA117/Async-Landingpage/issues"
+  },
+  "homepage": "https://github.com/SnakeA117/Async-Landingpage#readme"
+}
