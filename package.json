@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SnakeA117/Async-Landingpage/issues"
   },
-  "homepage": "https://github.com/SnakeA117/Async-Landingpage#readme"
+  "homepage": "https://github.com/SnakeA117/Async-Landingpage#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
